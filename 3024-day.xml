@@ -218,7 +218,7 @@
         </LexerType>
         <LexerType name="ini" desc="ini file" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="4a4543" bgColor="f7f7f7" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle a16a94name="COMMENT" styleID="1" fgColor="d0d0d0" bgColor="f7f7f7" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="COMMENT" styleID="1" fgColor="d0d0d0" bgColor="f7f7f7" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="SECTION" styleID="2" fgColor="e8bbd0" bgColor="f7f7f7" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="4a4543" bgColor="f7f7f7" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="DEFVAL" styleID="4" fgColor="01a0e4" bgColor="f7f7f7" fontName="" fontStyle="" fontSize="10" />
